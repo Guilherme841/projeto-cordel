@@ -74,10 +74,12 @@ div {
     color: white;
     padding: 10px;
     margin-left: 30px;
+    background-attachment: fixed;
 }
 
 .estrofe > p {
     text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.377);
+    background-attachment: fixed;
 }
 
 .sete {
