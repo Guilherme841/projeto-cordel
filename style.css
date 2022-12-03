@@ -76,6 +76,10 @@ div {
     margin-left: 30px;
 }
 
+.estrofe > p {
+    text-shadow: 3px 3px 4px rgba(0, 0, 0, 0.377);
+}
+
 .sete {
     padding-bottom: 2em;
 }
@@ -100,7 +104,7 @@ div {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
-    background-position: center center;
+    background-position: right;
     border-top: 1px solid black;
     border-bottom: 1px solid black;
     box-shadow: inset 5px 5px 5px rgba(0, 0, 0, 0.438);
